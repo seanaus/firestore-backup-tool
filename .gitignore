@@ -1,0 +1,10 @@
+# Folders to Ignore
+node_modules/
+dep/
+
+# Files to Ignore
+.env
+.env.*
+*.exe
+firebase-cert.json
+

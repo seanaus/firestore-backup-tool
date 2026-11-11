@@ -1,0 +1,15 @@
+{
+  "name": "firestore-backup-tool",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Recursive, brand-aware Firestore JSON backup and restore utility",
+  "scripts": {
+    "export": "node firestore.mjs export",
+    "import": "node firestore.mjs import"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "firebase-admin": "^13.5.0"
+  }
+}
