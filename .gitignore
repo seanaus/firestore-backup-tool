@@ -1,6 +1,7 @@
 # Folders to Ignore
 node_modules/
 dep/
+backups/
 
 # Files to Ignore
 .env
